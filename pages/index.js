@@ -4,6 +4,7 @@ import { Button } from "../components/ui/button";
 import { Card, CardContent } from "../components/ui/card";
 
 
+
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center px-4">
